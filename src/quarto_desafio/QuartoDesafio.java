@@ -9,8 +9,8 @@ import java.util.Scanner;
  * O código lê o número de casos de teste, em seguida, itera sobre cada caso de teste. 
  * A função readLine é usada para ler cada linha do caso de teste, garantindo que linhas vazias sejam ignoradas.
  * Em seguida, a linha é dividida em duas partes, parte1 e parte2, usando o índice do meio. 
- * Ambas as partes são revertidas usando o método reverse() do StringBuilder e, por fim, são concatenadas e impressas no console
- * 
+ * Ambas as partes são revertidas usando o método reverse() do StringBuilder e,
+ *  por fim, são concatenadas e impressas no console
  */
 public class QuartoDesafio {
 
