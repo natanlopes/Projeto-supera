@@ -1,4 +1,9 @@
 /**
+ *Esse codigo ele lê uma série de números inteiros não negativos da entrada e os separa em duas listas: uma contendo os números pares e outra contendo os números ímpares.
+
+Em seguida, as duas listas são ordenadas em ordem crescente usando o método Collections.sort(). Por fim, os valores das listas ordenadas são impressos na saída, separadamente para pares e ímpares, um valor por linha.
+
+O objetivo desse desafio é ordenar os números de acordo com o critério estabelecido: primeiro os pares em ordem crescente e depois os ímpares em ordem crescente. Assim, a solução realiza essa ordenação e apresenta os valores corretamente na saída.
  * 
  */
 package primeiro_desafio;
